@@ -28,14 +28,28 @@ function printResult(result) {
     resultElement.textContent = result
 }
 
+function computeNumbersWithAction() {inp1, inp2, actionSymbol
+    const num1 = Number(inp1.Value)
+    const num2 = Number(inp2.Value)
+    if (actionSymbol == '+') {
+        return num1 + num2
+    }
+
+    if (actionSymbol == '-') {
+        return num1 - num2
+    }
+}
+
 submitBtn.onclick = function () {
-    if (action == '+') {
+    const resultt = computeNumbersWithAction(input1, input2, action)
+    printResult(result)
+    /*if (action == '+') {
         const sum = Number(input1.Value) + Number(input2.Value)
-        pritResult(sum)
+        printResult(sum)
     } else if (action == '-') {
         const sum = Number(input1.Value) - Number(input2.Value)
-        pritResult(sum)
-    }
+        printResult(sum)
+    }*/
     
 }
 

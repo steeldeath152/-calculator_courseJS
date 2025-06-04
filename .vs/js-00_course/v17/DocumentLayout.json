@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEEL\\source\\repos\\js-00_course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA748C3-2FBC-46F4-AE01-BBF8AD547382}|js-00_course\\js-00_course.esproj|c:\\users\\steel\\source\\repos\\js-00_course\\js-00_course\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA748C3-2FBC-46F4-AE01-BBF8AD547382}|js-00_course\\js-00_course.esproj|solutionrelative:js-00_course\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA748C3-2FBC-46F4-AE01-BBF8AD547382}|js-00_course\\js-00_course.esproj|c:\\users\\steel\\source\\repos\\js-00_course\\js-00_course\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5EA748C3-2FBC-46F4-AE01-BBF8AD547382}|js-00_course\\js-00_course.esproj|solutionrelative:js-00_course\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\STEEL\\source\\repos\\js-00_course\\js-00_course\\index.html",
+              "RelativeDocumentMoniker": "js-00_course\\index.html",
+              "ToolTip": "C:\\Users\\STEEL\\source\\repos\\js-00_course\\js-00_course\\index.html",
+              "RelativeToolTip": "js-00_course\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-03T13:12:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\STEEL\\source\\repos\\js-00_course\\js-00_course\\app.js",
+              "RelativeDocumentMoniker": "js-00_course\\app.js",
+              "ToolTip": "C:\\Users\\STEEL\\source\\repos\\js-00_course\\js-00_course\\app.js",
+              "RelativeToolTip": "js-00_course\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-03T13:00:33.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

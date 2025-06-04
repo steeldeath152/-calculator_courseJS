@@ -9,11 +9,33 @@ const input2 = documet.getElementById('input2')
 const submitBtn = document.getElementById('submit')
 const plusBtn = document.getElementById('plus')
 const minusBtn = document.getElementById('minus')
+let action = '+'
 
+plusBtn.onclick = function () {
+    action = '+'
+}
 
+minusBtn.onclick = function () {
+    action = '-'
+}
+
+function printResult(result) {
+    if (result < 0) {
+        resultElement.style.color = "red"
+    } else {
+        resultElement.style.color = "green"
+    }
+    resultElement.textContent = result
+}
 
 submitBtn.onclick = function () {
-    const sum = Number(input1.Value) + Number(input2.Value)
-    resultElement.textContent = sum
+    if (action == '+') {
+        const sum = Number(input1.Value) + Number(input2.Value)
+        pritResult(sum)
+    } else if (action == '-') {
+        const sum = Number(input1.Value) - Number(input2.Value)
+        pritResult(sum)
+    }
+    
 }
 

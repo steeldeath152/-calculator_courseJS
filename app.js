@@ -4,8 +4,8 @@ const isProgrammer = true
 
 
 const resultElement = document.getElementById('result')
-const input1 = documet.getElementById('input1')
-const input2 = documet.getElementById('input2')
+const input1 = document.getElementById('input1')
+const input2 = document.getElementById('input2')
 const submitBtn = document.getElementById('submit')
 const plusBtn = document.getElementById('plus')
 const minusBtn = document.getElementById('minus')

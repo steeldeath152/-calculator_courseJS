@@ -3,5 +3,5 @@ let firstName = 'Sergey'
 const isProgrammer = true
 
 
-const resuktElement = document.getElementById('result')
+const resultElement = document.getElementById('result')
 console.log(resultElement.textContent)
